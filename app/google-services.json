@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190684187239",
+    "firebase_url": "https://anatomymcq-c49c7.firebaseio.com",
+    "project_id": "anatomymcq-c49c7",
+    "storage_bucket": "anatomymcq-c49c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190684187239:android:3615dee35f998752",
+        "android_client_info": {
+          "package_name": "eiv.rogueknight1726.com.anatomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190684187239-e9m4lv23b5qcleio0v43480h4mkatb5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eiv.rogueknight1726.com.anatomy",
+            "certificate_hash": "613ce4d651258affadfad7d3c809fd852fd46d6e"
+          }
+        },
+        {
+          "client_id": "190684187239-lsf75blafr90tsi5k29qb51r324vmbg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAColpIOffvkDpl0mUF4pKpXj2h-9JTDJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190684187239-lsf75blafr90tsi5k29qb51r324vmbg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

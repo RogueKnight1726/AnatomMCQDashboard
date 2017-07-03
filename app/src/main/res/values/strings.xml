@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Anatomy</string>
+    <string-array name="options">
+        <item>Select Answer</item>
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+    </string-array>
+</resources>
